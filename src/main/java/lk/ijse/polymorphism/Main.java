@@ -1,4 +1,4 @@
-package lk.ijse.inheritance;
+package lk.ijse.polymorphism;
 
 public class Main {
     public static void main(String[] args) {
